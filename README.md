@@ -1,7 +1,5 @@
 # AI Agent Deep Dive
 
-## Star History
-
 <a href="https://www.star-history.com/?repos=tvytlx%2Fai-agent-deep-dive&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=tvytlx/ai-agent-deep-dive&type=date&theme=dark&legend=top-left" />
